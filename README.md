@@ -1,4 +1,4 @@
-# aoihana-server
+# aoihana-web-server
 
 - CS144 
 - CSAPP Lab <http://csapp.cs.cmu.edu/3e/labs.html>
